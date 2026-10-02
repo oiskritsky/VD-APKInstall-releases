@@ -1,7 +1,7 @@
 {
-  "version": "2.3.1",
-  "url": "https://github.com/oiskritsky/VD-APKInstall-releases/releases/download/v2.3.1/VD-AutoApps.exe",
-  "size": 30233359,
-  "sha256": "845e16586a7b024d8bea8d12b029606b3cdd9c4af1278fe903894fe94289775e",
-  "notes": "— надёжная самоустановка обновления (исправлено ожидание завершения и подмена файла)."
+  "version": "2.4.0",
+  "url": "https://github.com/oiskritsky/VD-APKInstall-releases/releases/download/v2.4.0/VD-AutoApps.exe",
+  "size": 30234877,
+  "sha256": "f2a181c590bbdcdc002857c6a5038d36d94c0bf6f037b1e28ad18923c3580613",
+  "notes": "— окно «Что нового» после входа в обновлённой версии;— надёжная самоустановка обновления;— личный пароль при первом запуске и смена пароля в меню."
 }
