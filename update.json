@@ -1,7 +1,7 @@
 {
-  "version": "2.3.0",
-  "url": "https://github.com/oiskritsky/VD-APKInstall-releases/releases/download/v2.3.0/VD-AutoApps.exe",
-  "size": 30232971,
-  "sha256": "2bf72ac3967402a2113a60577e5b4a60778d6ef5f6f4264a257b410fb9e1ca7d",
-  "notes": "— личный пароль при первом запуске (пароль по умолчанию больше не общий);— смена пароля в меню «Справка»;— автообновление до ввода пароля;— поддержка кириллических папок при обновлении."
+  "version": "2.3.1",
+  "url": "https://github.com/oiskritsky/VD-APKInstall-releases/releases/download/v2.3.1/VD-AutoApps.exe",
+  "size": 30233359,
+  "sha256": "845e16586a7b024d8bea8d12b029606b3cdd9c4af1278fe903894fe94289775e",
+  "notes": "— надёжная самоустановка обновления (исправлено ожидание завершения и подмена файла)."
 }
