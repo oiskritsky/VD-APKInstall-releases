@@ -1,7 +1,7 @@
 {
-  "version": "2.2.0",
-  "url": "https://github.com/oiskritsky/VD-APKInstall-releases/releases/download/v2.2.0/VD-AutoApps.exe",
-  "size": 30223959,
-  "sha256": "ed5cfe3f634a5487c8bafa9e18f08eb109555dada52d37a3b8926f76cb53fc6f",
-  "notes": "— вкладка «Терминал»: консоль adb shell прямо в программе (Ctrl+T);— самообновление программы;— исправлен вылет при вводе пароля."
+  "version": "2.3.0",
+  "url": "https://github.com/oiskritsky/VD-APKInstall-releases/releases/download/v2.3.0/VD-AutoApps.exe",
+  "size": 30232971,
+  "sha256": "2bf72ac3967402a2113a60577e5b4a60778d6ef5f6f4264a257b410fb9e1ca7d",
+  "notes": "— личный пароль при первом запуске (пароль по умолчанию больше не общий);— смена пароля в меню «Справка»;— автообновление до ввода пароля;— поддержка кириллических папок при обновлении."
 }
