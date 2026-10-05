@@ -1,7 +1,7 @@
 {
-  "version": "2.5.0",
-  "url": "https://github.com/oiskritsky/VD-APKInstall-releases/releases/download/v2.5.0/VD-AutoApps-2.5.0.zip",
-  "size": 30254243,
-  "sha256": "ef890df052dfe9601d05a4a65f97bb5912a3ff96d60bc0a4f7bbdd13beb7370e",
-  "notes": "— программа теперь устанавливается установщиком в выбранную папку;— обновление через zip: быстрее и без конфликтов с антивирусом;— окно «Что нового» после обновления."
+  "version": "2.4.1",
+  "url": "https://github.com/oiskritsky/VD-APKInstall-releases/releases/download/v2.4.1/VD-AutoApps.exe",
+  "size": 30235166,
+  "sha256": "ef08cf4e6ddbf438f9323ad180d7036e7dc0b1d6974d718814e569dfd8af5615",
+  "notes": "— исправлено: антивирус больше не мешает запуску обновлённой версии."
 }
