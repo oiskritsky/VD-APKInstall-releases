@@ -1,7 +1,7 @@
 {
-  "version": "2.4.1",
-  "url": "https://github.com/oiskritsky/VD-APKInstall-releases/releases/download/v2.4.1/VD-AutoApps.exe",
-  "size": 30235166,
-  "sha256": "ef08cf4e6ddbf438f9323ad180d7036e7dc0b1d6974d718814e569dfd8af5615",
-  "notes": "— исправлено: антивирус больше не мешает запуску обновлённой версии."
+  "version": "2.6.0",
+  "url": "https://github.com/oiskritsky/VD-APKInstall-releases/releases/download/v2.6.0/VD-AutoApps-bridge-2.6.0.exe",
+  "size": 30689978,
+  "sha256": "fb127e8cd3f536c848226b5a3456a961863c8c128cbfb938c0933a55c781ae8c",
+  "notes": "— поддержка магнитол Vigo / Evolute i-Joy / Nammi 06 (установка через временный патч);— надёжная установка обновлений: откат и перезапуск при сбое;— окно «Что нового» после обновления."
 }
