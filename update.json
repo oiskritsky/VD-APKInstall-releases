@@ -1,7 +1,1 @@
-{
-  "version": "2.6.0",
-  "url": "https://github.com/oiskritsky/VD-APKInstall-releases/releases/download/v2.6.0/VD-AutoApps-bridge-2.6.0.exe",
-  "size": 30689978,
-  "sha256": "fb127e8cd3f536c848226b5a3456a961863c8c128cbfb938c0933a55c781ae8c",
-  "notes": "— поддержка магнитол Vigo / Evolute i-Joy / Nammi 06 (установка через временный патч);— надёжная установка обновлений: откат и перезапуск при сбое;— окно «Что нового» после обновления."
-}
+{"version": "2.6.1", "url": "https://github.com/oiskritsky/VD-APKInstall-releases/releases/download/v2.6.1/VD-AutoApps-bridge-2.6.1.exe", "size": 30693504, "sha256": "05d0a48c6b7dc6f402d1781a3ec37a040203479011eabe7d4d012ba40d97e9ee", "notes": "— кэш патча Vigo больше не запоминает непроверенный файл, ошибочный кэш исправляется сам;\n— повторный запуск без перезагрузки магнитолы сообщает об активном наложении патча;\n— установка ждёт готовности службы приложений после перезапуска интерфейса."}
