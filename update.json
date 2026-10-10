@@ -1,7 +1,7 @@
 {
-  "version": "2.8.0",
-  "url": "https://raw.githubusercontent.com/oiskritsky/VD-APKInstall-releases/main/VD-AutoApps-2.8.0.zip",
-  "size": 31711599,
-  "sha256": "dd60265335ff7e75f219c077282eafa12d28ae1a8580a589be878ff0c81182a1",
-  "notes": "Профиль Dongfeng DF Mage: открытие установки штатным свойством, раскладка сетки с нашим блоком с нового ряда, определение DAB; исправления Vigo"
+  "version": "2.8.1",
+  "url": "https://raw.githubusercontent.com/oiskritsky/VD-APKInstall-releases/main/VD-AutoApps-2.8.1.zip",
+  "size": 31721716,
+  "sha256": "9cdac5ac4009277be2f760cac0f7ff5bd10ea7ae481159b64186246eba9204cc",
+  "notes": "Оверлей иконок DF Mage ставится самой программой (выбор «с новым рядом» в окне установки); исправлена подпись PKCS#7 (SET OF); оверлеи пересобраны"
 }
