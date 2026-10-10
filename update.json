@@ -1,7 +1,7 @@
 {
-  "version": "2.8.2",
-  "url": "https://raw.githubusercontent.com/oiskritsky/VD-APKInstall-releases/main/VD-AutoApps-2.8.2.zip",
-  "size": 31727730,
-  "sha256": "4f7ab28d4dfe1331dbb0b9d44d06abfb7e32350ea617b362fd5d1d80bce1e33b",
-  "notes": "Узнавание повторных машин (оверлей/гейт/наши приложения) и журнал по серийнику; оверлей иконок ставится самой программой (выбор в окне установки); исправлена подпись PKCS#7"
+  "version": "2.8.3",
+  "url": "https://raw.githubusercontent.com/oiskritsky/VD-APKInstall-releases/main/VD-AutoApps-2.8.3.zip",
+  "size": 31728703,
+  "sha256": "9feadc0bf78730a781fbfb42034f79ccd48ba6906b62cb29971c5ca75859ae4d",
+  "notes": "Хвосты ревью оверлея: галочка «С новым рядом» по умолчанию снята (до первой проверки на машине), журнал машин атомарный и устойчив к коллизиям серийников, мелкие чистки"
 }
