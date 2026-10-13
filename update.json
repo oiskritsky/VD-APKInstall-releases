@@ -3,7 +3,7 @@
   "url": "https://raw.githubusercontent.com/oiskritsky/VD-APKInstall-releases/main/VD-AutoApps-2.8.11.zip",
   "size": 33913039,
   "sha256": "7aea9f7c9def4ef4a00c03bc42044331ab9cc051a1db0ac524a6fd1742339253",
-  "notes": "Приложения на устройстве: список всех сторонних приложений машины и удаление выбранных одной кнопкой — кнопка «Приложения…» в шапке окна или меню «Устройство»; поиск, «выбрать всё», размеры APK, названия из библиотеки профилей; удаление идёт по одному, ошибка одного приложения не мешает остальным.",
+  "notes": "Исправления и улучшения.",
   "macos": {
     "url": "https://raw.githubusercontent.com/oiskritsky/VD-APKInstall-releases/main/VD-AutoApps-2.8.11-macos.zip",
     "size": 41510344,
