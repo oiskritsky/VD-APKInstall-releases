@@ -1,12 +1,12 @@
 {
-  "version": "2.8.11",
-  "url": "https://raw.githubusercontent.com/oiskritsky/VD-APKInstall-releases/main/VD-AutoApps-2.8.11.zip",
-  "size": 33913039,
-  "sha256": "7aea9f7c9def4ef4a00c03bc42044331ab9cc051a1db0ac524a6fd1742339253",
+  "version": "2.9.1",
+  "url": "https://raw.githubusercontent.com/oiskritsky/VD-APKInstall-releases/main/VD-AutoApps-2.9.1.zip",
+  "size": 32171701,
+  "sha256": "ef2a6bead299d9d90dbef8f0cf3de45b015c8ed38a89a5cdf862508e9648cba2",
   "notes": "Исправления и улучшения.",
   "macos": {
-    "url": "https://raw.githubusercontent.com/oiskritsky/VD-APKInstall-releases/main/VD-AutoApps-2.8.11-macos.zip",
-    "size": 41510344,
-    "sha256": "8b280d4bd210e82047bba877c53e0ba66aa09a31f61b4642e980a704bcf9c2bb"
+    "url": "https://raw.githubusercontent.com/oiskritsky/VD-APKInstall-releases/main/VD-AutoApps-2.9.1-macos.zip",
+    "size": 41873923,
+    "sha256": "fd314f78903e5f68bab56aa4231d7fc6cf8c97fcbbfdfae4ba346cc26352b462"
   }
 }
