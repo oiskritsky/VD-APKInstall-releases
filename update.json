@@ -1,7 +1,7 @@
 {
-  "version": "2.9.009",
-  "url": "https://raw.githubusercontent.com/oiskritsky/VD-APKInstall-releases/main/VD-AutoApps-2.9.009.zip",
-  "size": 32213140,
-  "sha256": "c27ab9cafa720954a57a8a0c1920c566e3f5c091f60d9d10fd3f5afd152f99de",
-  "notes": "Названия профилей Vigo обновлены; наборы с Диска распознаются точнее; исправления и улучшения."
+  "version": "2.9.010",
+  "url": "https://raw.githubusercontent.com/oiskritsky/VD-APKInstall-releases/main/VD-AutoApps-2.9.010.zip",
+  "size": 32213164,
+  "sha256": "e9e5e068a18b3b6a8bee59582500b91540ed3dacf983f7efd8a2bdb0fb478783",
+  "notes": "Исправлена ошибка скачивания больших наборов; исправления и улучшения."
 }
