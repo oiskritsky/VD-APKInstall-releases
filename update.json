@@ -1,7 +1,7 @@
 {
-  "version": "2.9.005",
-  "url": "https://raw.githubusercontent.com/oiskritsky/VD-APKInstall-releases/main/VD-AutoApps-2.9.005.zip",
-  "size": 32179635,
-  "sha256": "8df0753902017f2b76d649421010d432c05c25975678fcb37cce4519b3037279",
-  "notes": "Исправления и улучшения."
+  "version": "2.9.008",
+  "url": "https://raw.githubusercontent.com/oiskritsky/VD-APKInstall-releases/main/VD-AutoApps-2.9.008.zip",
+  "size": 32213220,
+  "sha256": "28a4751463656cfa8df46e2d9f3b38ef2e9c2c7acf3fd333e5da21cde5f35eae",
+  "notes": "Встроенные профили установки для Vigo («основной способ» и «альтернативный»), окно «Установить» с выбором операций, исправления и улучшения."
 }
