@@ -1,7 +1,7 @@
 {
-  "version": "2.9.010",
-  "url": "https://raw.githubusercontent.com/oiskritsky/VD-APKInstall-releases/main/VD-AutoApps-2.9.010.zip",
-  "size": 32213164,
-  "sha256": "e9e5e068a18b3b6a8bee59582500b91540ed3dacf983f7efd8a2bdb0fb478783",
-  "notes": "Исправлена ошибка скачивания больших наборов; исправления и улучшения."
+  "version": "2.9.011",
+  "url": "https://raw.githubusercontent.com/oiskritsky/VD-APKInstall-releases/main/VD-AutoApps-2.9.011.zip",
+  "size": 32213677,
+  "sha256": "d9517c4d31d3b1a7b36ca5b656f9c934aaf0327e02447d53ddcb8f92ec80a178",
+  "notes": "В витрине появилась плитка клавиатуры; исправления и улучшения."
 }
