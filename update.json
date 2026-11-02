@@ -1,7 +1,7 @@
 {
-  "version": "2.9.012",
-  "url": "https://raw.githubusercontent.com/oiskritsky/VD-APKInstall-releases/main/VD-AutoApps-2.9.012.zip",
-  "size": 32214914,
-  "sha256": "2fb22aaddb9a05c848139424e9c78b7391df65052a5ef51160103163e32a0e98",
-  "notes": "Исправления и улучшения."
+  "version": "2.9.013",
+  "url": "https://raw.githubusercontent.com/oiskritsky/VD-APKInstall-releases/main/VD-AutoApps-2.9.013.zip",
+  "size": 36289323,
+  "sha256": "d6d05ca9565b4f523047761ff27d6ff072a1edbf51d1932c04794162aa93ecf8",
+  "notes": "Киты обновляются из облака при запуске; новый профиль Changan Q05; исправления."
 }
