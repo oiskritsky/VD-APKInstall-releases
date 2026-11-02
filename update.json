@@ -1,7 +1,7 @@
 {
-  "version": "2.9.015",
-  "url": "https://raw.githubusercontent.com/oiskritsky/VD-APKInstall-releases/main/VD-AutoApps-2.9.015.zip",
-  "size": 36296902,
-  "sha256": "46e9305bd70002ca94a073e2b8f0ff18b1c11c95a4d25bc973d06f53af153222",
+  "version": "2.10.001",
+  "url": "https://raw.githubusercontent.com/oiskritsky/VD-APKInstall-releases/main/VD-AutoApps-2.10.001.zip",
+  "size": 36297608,
+  "sha256": "25bffb5a73ca57f0408593e8d5af0ef4de50f047434931855a285a63edc4273a",
   "notes": "Профиль Changan Q05: установка приложений, авторизация ADB, подбор кода инженерного меню; устойчивость облачных загрузок к лимитам Диска."
 }
