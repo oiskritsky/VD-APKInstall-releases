@@ -1,7 +1,7 @@
 {
-  "version": "2.10.001",
-  "url": "https://raw.githubusercontent.com/oiskritsky/VD-APKInstall-releases/main/VD-AutoApps-2.10.001.zip",
-  "size": 36297608,
-  "sha256": "25bffb5a73ca57f0408593e8d5af0ef4de50f047434931855a285a63edc4273a",
-  "notes": "Профиль Changan Q05: установка приложений, авторизация ADB, подбор кода инженерного меню; устойчивость облачных загрузок к лимитам Диска."
+  "version": "2.10.002",
+  "url": "https://raw.githubusercontent.com/oiskritsky/VD-APKInstall-releases/main/VD-AutoApps-2.10.002.zip",
+  "size": 36330357,
+  "sha256": "82301ad9c28840f0d5d6d21940453767c2b5e0779873fadc3ace8ffe8b11b551",
+  "notes": "Vigo: приложение «Виджеты»; калькулятор кода Q05/A05/S05; удаления из наборов Диска доезжают до профилей; надёжность автозагрузки хуков DF Mage."
 }
