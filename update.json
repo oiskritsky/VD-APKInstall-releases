@@ -1,7 +1,7 @@
 {
-  "version": "2.10.003",
-  "url": "https://raw.githubusercontent.com/oiskritsky/VD-APKInstall-releases/main/VD-AutoApps-2.10.003.zip",
-  "size": 36329287,
-  "sha256": "2b88fb449584fb510da71fc417ef38dee80c36c1a6bc10e4269fa31bfc23cd81",
-  "notes": "Профиль Dongfeng Shine и Shine GS: установка приложений и оболочка VD; исправления надёжности установки."
+  "version": "2.10.004",
+  "url": "https://raw.githubusercontent.com/oiskritsky/VD-APKInstall-releases/main/VD-AutoApps-2.10.004.zip",
+  "size": 36371303,
+  "sha256": "16998e88ff4f577b72fa014bf9b8dd360389a5ec4ee63cf5dcce3607473cbcb9",
+  "notes": "DF Mage: безопаснее для штатных приложений — хуки и автозапуск надёжнее, штатный голосовой сервис всегда включён."
 }
