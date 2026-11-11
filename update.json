@@ -1,7 +1,7 @@
 {
-  "version": "2.10.004",
-  "url": "https://raw.githubusercontent.com/oiskritsky/VD-APKInstall-releases/main/VD-AutoApps-2.10.004.zip",
-  "size": 36371303,
-  "sha256": "16998e88ff4f577b72fa014bf9b8dd360389a5ec4ee63cf5dcce3607473cbcb9",
-  "notes": "DF Mage: безопаснее для штатных приложений — хуки и автозапуск надёжнее, штатный голосовой сервис всегда включён."
+  "version": "2.10.005",
+  "url": "https://raw.githubusercontent.com/oiskritsky/VD-APKInstall-releases/main/VD-AutoApps-2.10.005.zip",
+  "size": 36373839,
+  "sha256": "488d995565bb938cd4c0685c0aac248ca3f1be7c946a33ce9e1034ea881102b7",
+  "notes": "DF Mage: убрана галочка выключения голосового сервиса (она не открывала «настройки авто» в шторке); программа включает штатный голос обратно при установке и приёмке."
 }
