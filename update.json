@@ -1,7 +1,7 @@
 {
-  "version": "2.10.005",
-  "url": "https://raw.githubusercontent.com/oiskritsky/VD-APKInstall-releases/main/VD-AutoApps-2.10.005.zip",
-  "size": 36373839,
-  "sha256": "488d995565bb938cd4c0685c0aac248ca3f1be7c946a33ce9e1034ea881102b7",
-  "notes": "DF Mage: убрана галочка выключения голосового сервиса (она не открывала «настройки авто» в шторке); программа включает штатный голос обратно при установке и приёмке."
+  "version": "2.10.006",
+  "url": "https://raw.githubusercontent.com/oiskritsky/VD-APKInstall-releases/main/VD-AutoApps-2.10.006.zip",
+  "size": 36374668,
+  "sha256": "3e87a25e3aa2e88c0afac340d8652bc9c7e80ff0386a8c6ba139fa0391f4a38f",
+  "notes": "DF Mage: витрина VD сама показывает приложения, поставленные на машине (RuStore и др.), — после обновления кита повторите «Оболочка VD». Помощник Changan больше не теряет ответы головы."
 }
