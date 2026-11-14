@@ -1,7 +1,7 @@
 {
-  "version": "2.10.006",
-  "url": "https://raw.githubusercontent.com/oiskritsky/VD-APKInstall-releases/main/VD-AutoApps-2.10.006.zip",
-  "size": 36374668,
-  "sha256": "3e87a25e3aa2e88c0afac340d8652bc9c7e80ff0386a8c6ba139fa0391f4a38f",
-  "notes": "DF Mage: витрина VD сама показывает приложения, поставленные на машине (RuStore и др.), — после обновления кита повторите «Оболочка VD». Помощник Changan больше не теряет ответы головы."
+  "version": "2.10.007",
+  "url": "https://raw.githubusercontent.com/oiskritsky/VD-APKInstall-releases/main/VD-AutoApps-2.10.007.zip",
+  "size": 36375673,
+  "sha256": "61ba1bb983f368b6c166e582947c2d6ec5c9c1a54f85ea037074ed4c979a4c7c",
+  "notes": "Приёмка машины: исправлен сбой всех автопроверок."
 }
